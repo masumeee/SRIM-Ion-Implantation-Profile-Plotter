@@ -33,7 +33,7 @@ Anyone needing clean, scientific plots from SRIM data.
 
 Getting Started
 Open the tool in your browser: Launch Plotter.
-Upload your SRIM .txt files.
+Upload your SRIM Range.txt files.
 Customize units and plot settings.
 Interact with the plot and export high-quality figures.
 
@@ -42,10 +42,6 @@ This project is completely free to use.You can use and share it for personal or 
 
 Snapshot of the tool Above!
 TRY NOW --- https://srim-ion-implantation-profile-plotter.netlify.app/
-
-
-
-
 
 - Only the **first two numeric columns** are used (depth and implanted ion concentration).  
 - Other SRIM output details are ignored.
@@ -90,12 +86,4 @@ TRY NOW --- https://srim-ion-implantation-profile-plotter.netlify.app/
 - Placeholder text will reappear: `"Plot will appear here after uploading SRIM files"`
 
 ---
-
-## Credits
-
-- Developed by **S.M Masum**  
-- LinkedIn: [https://bd.linkedin.com/in/s-m-masum-9491ab179](https://bd.linkedin.com/in/s-m-masum-9491ab179)  
-- Website: [https://sites.google.com/view/sm-masum-eee/home](https://sites.google.com/view/sm-masum-eee/home)  
-
-> Free Forever (©S.M Masum)  
-> Professional visualization tool for SRIM/TRIM ion implantation analysis and semiconductor research presentations. Upload files and see Magic!  
+TRY NOW --- https://srim-ion-implantation-profile-plotter.netlify.app/
