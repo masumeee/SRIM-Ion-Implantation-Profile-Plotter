@@ -78,3 +78,10 @@ TRY NOW --- https://srim-ion-implantation-profile-plotter.netlify.app/
 
 ---
 TRY NOW --- https://srim-ion-implantation-profile-plotter.netlify.app/
+
+---
+
+## Disclaimer
+
+**Use this tool at your own risk.**  
+The developer is not responsible for any misinterpretation of the plotted data or results. Always cross-check SRIM/TRIM outputs and calculations before using the results for research or publications.
