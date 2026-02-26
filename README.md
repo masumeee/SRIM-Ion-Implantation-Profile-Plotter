@@ -45,7 +45,7 @@ TRY NOW --- https://srim-ion-implantation-profile-plotter.netlify.app/
 2. `B_100keV_Range.txt`  
 
 **Dose:** `1e12` ions/cm²  
-**Depth Unit:** `nm`  
+**Depth Unit:** `nm,µm,A°`  
 
 > Multiple files can be uploaded simultaneously. The plot will scale concentrations based on the entered dose.
 
