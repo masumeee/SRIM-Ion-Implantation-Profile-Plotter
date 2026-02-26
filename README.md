@@ -9,7 +9,7 @@ Working with ion implantation data from SRIM can be tedious. Manually creating p
 The SRIM Ion Implantation Profile Plotter solves this by providing a browser-based, professional-grade tool that lets researchers quickly visualize, compare, and export their ion implantation profiles without coding skills.
 
 Features
-Upload multiple SRIM .txt files for simultaneous comparison.
+Upload multiple SRIM Ion/Recoil Distribution Files Range.txt files for simultaneous comparison.
 Choose units: Depth in Å, nm, or µm; Concentration in atoms/cm³ or fraction.
 Compare profiles visually with distinct colors and markers.
 Interactive plots: zoom, pan, and hover for precise data points.
