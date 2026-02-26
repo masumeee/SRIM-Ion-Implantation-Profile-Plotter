@@ -2,7 +2,7 @@
 
 https://srim-ion-implantation-profile-plotter.netlify.app/               
 
-SRIM Ion Implantation Profile Plotter - A free tool to visualize ion implantation profiles from SRIM .txt files. Compare multiple profiles, select units, export plots as PNG. James Ziegler - SRIM &amp; TRIM. ion implantation, profile, plotter, depth, concentration, doping, Depth vs. concentration profiles, Semiconductor, simulation &amp; analysis tool.
+SRIM Ion Implantation Profile Plotter - A free tool to visualize ion implantation profiles from directly SRIM .txt files. Compare multiple profiles, select units, export plots as PNG. James Ziegler - SRIM &amp; TRIM. ion implantation, profile, plotter, depth, concentration, doping, Depth vs. concentration profiles, Semiconductor, simulation &amp; analysis tool.
 
 Why This Tool Exists
 Working with ion implantation data from SRIM can be tedious. Manually creating plots from .txt output files is time-consuming and often requires programming or expensive software.
