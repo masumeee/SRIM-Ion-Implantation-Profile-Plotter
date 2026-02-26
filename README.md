@@ -42,3 +42,60 @@ This project is completely free to use.You can use and share it for personal or 
 
 Snapshot of the tool Above!
 TRY NOW --- https://srim-ion-implantation-profile-plotter.netlify.app/
+
+
+
+
+
+- Only the **first two numeric columns** are used (depth and implanted ion concentration).  
+- Other SRIM output details are ignored.
+
+---
+
+## Sample Input
+
+1. `P_50keV_Range.txt`  
+2. `B_100keV_Range.txt`  
+
+**Dose:** `1e12` ions/cm²  
+**Depth Unit:** `nm`  
+
+> Multiple files can be uploaded simultaneously. The plot will scale concentrations based on the entered dose.
+
+---
+
+## Plot Customization
+
+- **Depth Units:** Å, nm, or µm.  
+- **Marker size and line width:** Built-in **thicker lines and markers** for journal-quality plots.  
+- **Logarithmic y-axis:** Concentration shown in log scale.  
+- **Dynamic y-axis:** Automatically adjusts from **min to max concentration**, even for very low or high doses.  
+
+---
+
+## Exporting Figures
+
+- Click **Export High-Res PNG**.  
+- The exported image is **high-resolution (3x scale)**, suitable for publication.  
+- File name: `srim_implantation_profile.png`  
+
+---
+
+## Resetting/Start Over
+
+- Click **Start Over** to:  
+  - Clear dose input  
+  - Clear file selection  
+  - Remove the plot  
+- Placeholder text will reappear: `"Plot will appear here after uploading SRIM files"`
+
+---
+
+## Credits
+
+- Developed by **S.M Masum**  
+- LinkedIn: [https://bd.linkedin.com/in/s-m-masum-9491ab179](https://bd.linkedin.com/in/s-m-masum-9491ab179)  
+- Website: [https://sites.google.com/view/sm-masum-eee/home](https://sites.google.com/view/sm-masum-eee/home)  
+
+> Free Forever (©S.M Masum)  
+> Professional visualization tool for SRIM/TRIM ion implantation analysis and semiconductor research presentations. Upload files and see Magic!  
