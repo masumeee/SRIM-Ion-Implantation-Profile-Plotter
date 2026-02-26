@@ -16,26 +16,17 @@ Interactive plots: zoom, pan, and hover for precise data points.
 Export high-resolution PNG images for presentations, papers, or posters.
 Professional scientific formatting with bold axes and log-scale Y-axis.
 
-
-How It Works (4 Simple Steps)
-Upload SRIM .txt output file(s).
-Choose your depth and concentration units.
-View interactive plots with lines and markers.
-Export high-resolution figures or reset to try new files.
-No installation or programming required — everything runs in your browser.
-
 Who Can Benefit
 Semiconductor researchers analyzing dopant distributions.
 Students learning about ion implantation.
 Engineers preparing conference posters or journal figures.
 Anyone needing clean, scientific plots from SRIM data.
 
-
 Getting Started
 Open the tool in your browser: Launch Plotter.
 Upload your SRIM Range.txt files.
 Customize units and plot settings.
-Interact with the plot and export high-quality figures.
+Interact with the plot and export high-quality figures. Full Process Steps Below!
 
 License
 This project is completely free to use.You can use and share it for personal or professional purposes.
